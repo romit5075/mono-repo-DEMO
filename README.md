@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<><><><><><><><><>
+I have created mono repo example -> microfrontend
+i have created mono-repo-workspace and inside create one host project and another mfe (remote)
+
+HOST Project (main)
+remote project 1
+remote project 2
+remote project 3
